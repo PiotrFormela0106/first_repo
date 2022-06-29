@@ -60,8 +60,9 @@
 
     <EditText
         android:id="@+id/editTextTextPersonName"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="211dp"
+        android:layout_height="50dp"
+        android:background="@color/purple_200"
         android:ems="10"
         android:hint="Enter your name..."
         android:inputType="textPersonName"
