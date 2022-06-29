@@ -93,7 +93,8 @@
             android:layout_margin="10dp"
             android:layout_weight="1"
             android:padding="10dp"
-            android:text="Button 1" />
+            android:text="Click"
+            android:textSize="20sp" />
 
         <Button
             android:id="@+id/button6"
@@ -102,7 +103,8 @@
             android:layout_margin="10dp"
             android:layout_weight="1"
             android:padding="10dp"
-            android:text="Button 2" />
+            android:text="on"
+            android:textSize="20sp" />
 
         <Button
             android:id="@+id/button7"
@@ -111,7 +113,8 @@
             android:layout_margin="10dp"
             android:layout_weight="1"
             android:padding="10dp"
-            android:text="Button 3" />
+            android:text="me"
+            android:textSize="20sp" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
